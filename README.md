@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🌱 I’m currently learning Web Application Development
 
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,java,js,html,css,py,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,html,css,js,java,py,vscode,figma,angular,ts)](https://skillicons.dev)
 
 <!--
 **n-valeryn/n-valeryn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
